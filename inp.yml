@@ -1,0 +1,7 @@
+---
+treatment:
+- path: test/wgEncodeUwRepliSeqK562G1AlnRep1.bam
+  class: File
+
+nomodel: true
+nolambda: true
